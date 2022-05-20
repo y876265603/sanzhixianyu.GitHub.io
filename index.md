@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## 隐私政策
 
-You can use the [editor on GitHub](https://github.com/y876265603/sanzhixianyu.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+生效时间：2022年5月20日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+三只咸鱼，以下简称“我们”）作为【救救孩子吧】游戏（以下简称“本游戏”）的运营方。深知个人信息对您的重要性，我们将按照法律法规的规定，保护您的个人信息及隐私安全。我们制定本“隐私政策”并特别提示：希望您在使用本游戏软件及相关服务前仔细阅读并理解本隐私政策，以便做出适当的选择。
 
-### Markdown
+本应用《救救孩子吧》尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。  如对本《隐私政策》或相关事宜有任何问题，请通过支持邮箱：shengqianbaofu@Gmail.com与我们联系。尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。  如对本《隐私政策》或相关事宜有任何问题，请通过支持邮箱：shengqianbaofu@Gmail.com与我们联系。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 一、我们收集到的信息
 
-```markdown
-Syntax highlighted code block
+我们或我们的第三方合作伙伴提供服务时，可能会收集和使用下列与您有关的信息：第三方广告收集数据：第三方广告收集粗略位置、用户授权应用使用标识符、广告数据。这些数据仅用于投放第三方广告投放，不会追踪用户目的。
 
-# Header 1
-## Header 2
-### Header 3
+我们接入的第三方SDK：GoogleAdmob。
 
-- Bulleted
-- List
+### 二、 信息使用
 
-1. Numbered
-2. List
+(a)本应用不会向任何无关第三方提供、出售、出租、分享您的个人信息，除非事先得到您的许可。
 
-**Bold** and _Italic_ and `Code` text
+(b)本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
 
-[Link](url) and ![Image](src)
-```
+### 三.信息披露
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
 
-### Jekyll Themes
+(a) 经您事先同意，向第三方披露；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/y876265603/sanzhixianyu.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
 
-### Support or Contact
+(c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(d) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；
+
+(e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+
+(f) 在本应用平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本应用有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。
+
+(g) 其它本应用根据法律、法规或者网站政策认为合适的披露。
+
+### 四.信息存储和交换
+
+本软件收集的有关您的信息和资料将保存在本软件及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本软件收集信息和资料所在地的境外并在境外被访问、存储和展示。
+
+### 五.信息安全
+
+在使用本软件网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，请您立即联络本软件客服，以便本软件采取相应措施。
+
+### 六.未成年人信息的保护
+
+1. 我们非常重视对未成年人信息的保护。如果您是未满18周岁的未成年人，您的监护人需要仔细阅读本《隐私政策》并同意或授权您同意依照本《隐私政策》使用我们产品及/或服务。如果您是未满14周岁的未成年人，您的监护人需要仔细阅读本《隐私政策》并明示同意您依照本《隐私政策》使用我们产品及/或服务。
+
+2. 如果您/您的监护人不同意本《隐私政策》的任何内容，您应该立即停止使用我们产品及/或服务。
+
+### 七.本隐私政策的适用范围
+
+1.除某些特定服务外，我们所有的服务均适用本《隐私政策》。这些特定服务将适用特定的隐私政策。针对某些特定服务的特定隐私政策，将更具体地说明我们在该等服务中如何使用您的信息。该特定服务的隐私政策构成本《隐私政策》的一部分。如相关特定服务的隐私政策与本《隐私政策》有不一致之处，适用该特定服务的隐私政策。
+
+【如有问题请通过以下邮箱联系我们】
+
+shengqianbaofu@Gmail.com
+
+
+
